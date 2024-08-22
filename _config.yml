@@ -6,7 +6,7 @@ author: John Doe
 language: en
 timezone: ''
 url: https://megumin152.github.io/hexo-blog-hh/
-root: /hexo-blog-hh
+root: /hexo-blog-hh/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
