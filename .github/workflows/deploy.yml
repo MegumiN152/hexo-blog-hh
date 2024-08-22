@@ -38,5 +38,5 @@ jobs:
           git init
           git add -A
           git commit -m "Create by workflow"
-          git remote add origin https://github.com/MegumiN152/hexo-blog-hh.git
+          git remote set-url origin https://$GH_TOKEN@github.com/MegumiN152/hexo-blog-hh.git
           git push  origin HEAD:ph-pages -f
